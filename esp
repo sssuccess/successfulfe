@@ -1,0 +1,7 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TheNuggetEater05/ekaMiffutSmodnaR/main/GlobalR6SkeletonESP.lua"))()
+
+shared.BoneESP_Settings = {
+    Circle_Visible = false,
+    Circle_Radius = 3,
+    BoneESP_Color = Color3.fromRGB(255,255,255)
+}
